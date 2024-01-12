@@ -1,6 +1,6 @@
-#Captcha Recognition
+# Captcha Recognition
 
-Team Members:
+### Team Members:
 
 1) Mithun P
 2) Karmanya Gupta
